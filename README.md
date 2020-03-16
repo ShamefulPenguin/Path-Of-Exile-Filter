@@ -6,4 +6,5 @@ Directions!
 4. Open Path of Exile
 5. Options -> UI -> Scroll all the way to the bottom
 6. Click List of Item Filters and select your filter (You may need to hit the refresh button on the right if you don't see it)
+
 Done!
