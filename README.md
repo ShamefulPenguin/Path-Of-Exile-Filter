@@ -1,5 +1,5 @@
 # Path-Of-Exile-Filter
-Directions!
+Directions:
 1. Download and unzip the file (7zip/winrar)
 2. Go to Documents -> my games -> Path of Exile
 3. Place files directly in the folder (you need to have the individual files in that location)
